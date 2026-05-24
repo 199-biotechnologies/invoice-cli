@@ -70,7 +70,7 @@ interface built for agents.
 ### Homebrew (macOS / Linux)
 
 ```
-brew tap 199-biotechnologies/tap
+brew tap paperfoot/tap
 brew install invoice
 ```
 
